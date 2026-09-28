@@ -53,14 +53,18 @@ SWITCH(
     "Other"
 )
 
-📊 Key FindingsSticky Rent Dynamics: While tourism nights dropped sharply during the 2020–2021 lockdowns, housing rent indices exhibited downward rigidity, continuing a positive 
+📊 Key Findings - Sticky Rent Dynamics: While tourism nights dropped sharply during the 2020–2021 lockdowns, housing rent indices exhibited downward rigidity, continuing a positive 
 trajectory across key markets like Spain and Italy. De-seasonalized Correlation: The trendline on YoY tourism vs. YoY rent growth remains virtually flat, proving that short-term 
 seasonal tourism surges are not the sole macro driver of long-term rental market escalation.
 Key Insight: These findings suggest that tourism is unlikely to be the primary macro driver of rising rent prices in Spain and Italy. While localized tourism surges may exert 
 upward pressure on specific neighborhood rental markets, seasonal travel alone cannot account for the broader national rent escalation. Instead, long-term rental market trends 
 are predominantly driven by structural supply-demand imbalances, such as population growth fueled by net migration and a constrained supply of long-term rental housing stock.
 
-🚀 How to Run LocallyPrerequisitesPython 3.10+Power BI Desktop (Latest Version)1. Clone 
+📊 Main limitations on this study - The available dataset in the official Eurostat statistics under represents the effect of Airbnb, which can be one of the main factors connected 
+with tourism influencing the rent prices in these countries.
+
+🚀 How to Run Locally 
+PrerequisitesPython 3.10+Power BI Desktop (Latest Version)1. Clone 
 the RepositoryBashgit clone https://github.com/YOUR_GITHUB_USERNAME/housing-tourism-analysis.git
 cd housing-tourism-analysis
 
